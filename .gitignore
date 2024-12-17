@@ -7,6 +7,7 @@ __pycache__/
 
 # Virtual environment
 .env/
+venv/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
@@ -56,8 +57,3 @@ pip-log.txt
 # Environment files
 .env
 *.env
-
-# Exclude data files that are not part of the source
-data/raw/
-data/interim/
-data/processed/
