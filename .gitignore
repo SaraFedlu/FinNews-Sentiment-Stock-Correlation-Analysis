@@ -58,6 +58,5 @@ pip-log.txt
 *.env
 
 # Exclude data files that are not part of the source
-data/raw/
 data/interim/
 data/processed/
